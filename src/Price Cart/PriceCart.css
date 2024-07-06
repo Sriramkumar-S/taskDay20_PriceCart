@@ -1,0 +1,15 @@
+.card-div {
+    width: 18rem;
+    display: inline-block;
+    margin: 10px;
+}
+
+.button {
+    width: 100%;
+    border-radius: 20px;
+}
+
+.feature {
+    display: inline-block;
+    padding-left: 10px;
+}
